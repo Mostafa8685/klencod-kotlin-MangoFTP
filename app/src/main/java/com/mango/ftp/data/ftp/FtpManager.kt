@@ -24,8 +24,7 @@ class FtpManager {
             disconnect()
             val client = FTPClient().apply {
                 connectTimeout = 8000
-                defaultTimeout = 10000
-                dataTimeout = 15000
+                defaultTimeout = 15000
                 controlEncoding = "UTF-8"
             }
 
