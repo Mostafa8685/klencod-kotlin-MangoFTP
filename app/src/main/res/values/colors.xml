@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="mango_primary">#FF7A00</color>
+    <color name="mango_primary_dark">#D95F00</color>
+    <color name="mango_secondary">#FFB300</color>
+    <color name="mango_accent">#4CAF50</color>
+    <color name="mango_surface">#FFFDF9</color>
+    <color name="mango_card_bg">#FFF7EB</color>
+    <color name="mango_text_dark">#2C1A04</color>
+</resources>

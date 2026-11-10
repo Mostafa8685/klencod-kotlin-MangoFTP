@@ -1,0 +1,25 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Mango Fruit Body -->
+    <path
+        android:fillColor="#FF8C00"
+        android:pathData="M54,20 C75,20 90,38 90,62 C90,82 72,96 52,96 C30,96 18,78 18,54 C18,32 35,20 54,20 Z" />
+    <!-- Gradient accent highlight -->
+    <path
+        android:fillColor="#FFB300"
+        android:pathData="M48,25 C64,25 78,38 78,58 C78,74 64,88 48,88 C32,88 28,72 28,52 C28,34 38,25 48,25 Z" />
+    <!-- Mango Leaf -->
+    <path
+        android:fillColor="#4CAF50"
+        android:pathData="M54,20 C54,10 65,8 72,12 C78,16 75,26 62,24 Z" />
+    <!-- WiFi / Wave symbol on the Mango -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M42,50 C46,46 54,46 58,50 M36,44 C44,38 56,38 64,44 M48,56 A2,2 0 1,1 52,56 A2,2 0 1,1 48,56"
+        android:strokeWidth="2.5"
+        android:strokeColor="#FFFFFF"
+        android:strokeLineCap="round" />
+</vector>

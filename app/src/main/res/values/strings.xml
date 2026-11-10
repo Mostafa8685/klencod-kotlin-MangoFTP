@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Mango FTP</string>
+    <string name="nav_files">ملفات الراوتر</string>
+    <string name="nav_chat">شات العائلة (P2P)</string>
+    <string name="nav_settings">الإعدادات</string>
+    
+    <string name="cat_all">الكل</string>
+    <string name="cat_videos">فيديوهات</string>
+    <string name="cat_images">صور</string>
+    <string name="cat_audio">صوتيات</string>
+    <string name="cat_documents">مستندات</string>
+    <string name="cat_archives">مضغوطة</string>
+    <string name="cat_others">أخرى</string>
+
+    <string name="upload_label">رفع ملف</string>
+    <string name="uploaded_by_prefix">رُفع بواسطة: %1$s (%2$s)</string>
+    <string name="empty_folder">المجلد فارغ</string>
+    <string name="connecting_ftp">جاري الاتصال براوتر FTP...</string>
+    <string name="ftp_connected">متصل بنجاح</string>
+    <string name="ftp_disconnected">غير متصل</string>
+</resources>
